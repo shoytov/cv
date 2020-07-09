@@ -207,6 +207,12 @@ https://img.kursksu.ru/
 
 ___
 
+## Сертификаты и прочее
+Бронзовый сертификат Python Mail.ru    
+Выдан: 3.06.2019   
+https://certification.mail.ru/certificates/82ffea16-3d74-4687-b540-c4369bae373b/?utm_source=Trigger_certification&utm_medium=Email&utm_campaign=Trigger_certification
+___
+
 ## Ссылки
 
 https://www.linkedin.com/in/shoytov/   
