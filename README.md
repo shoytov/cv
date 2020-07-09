@@ -204,3 +204,10 @@ https://img.kursksu.ru/
 Разработка backend, реализация функций frontend на JavaScript
 
 *В список проектов не включены проекты на платформах Wordpress, Joomla
+
+___
+
+## Ссылки
+
+https://www.linkedin.com/in/shoytov/   
+https://github.com/shoytov
