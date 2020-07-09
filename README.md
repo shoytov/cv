@@ -210,4 +210,5 @@ ___
 ## Ссылки
 
 https://www.linkedin.com/in/shoytov/   
-https://github.com/shoytov
+https://github.com/shoytov   
+https://stackoverflow.com/users/12808155/shoytov
