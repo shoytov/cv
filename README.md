@@ -73,6 +73,12 @@ https://composit-tracks.com/
 **Стек:** `Django + MySql / HTML + CSS + JavaScript`  
 Разработка backend, реализация функций frontend на JavaScript
 
+- Сайт детской школы единоборств "Витязи"   
+http://vityazi-kursk.ru/
+Сайт-визитка детской школы единоборств в Курске   
+**Стек:** `Django + PostgreSQL / HTML + CSS + JavaScript`   
+Разработка backend, реализация функций frontend на JavaScript
+
 - Сервис голосования членов ученого совета   
 https://vote.kursksu.ru/   
 Сервис, позволяющий членам ученого совета ВУЗа в режиме заседания "онлайн" проводить голосование за кандидатов на вакансии.   
