@@ -209,7 +209,7 @@ https://img.kursksu.ru/
 **Стек:** `Django + MySql / HTML + CSS + JavaScript`  
 Разработка backend, реализация функций frontend на JavaScript
 
-*В список проектов не включены проекты на платформах Wordpress, Joomla
+*В список проектов не включены проекты, реализованные на языке программирования PHP, а также, созданные на популярных CMS (Wordpress, Joomla и пр.).
 
 ___
 
