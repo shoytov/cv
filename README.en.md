@@ -64,8 +64,14 @@ ___
 
 ## Portfolio*
 - The Single Sign On service of Kursk State Universiry based on OAuth 2.0.   
+http://sso.kursksu.ru/         
 **Stack:** `Django + PostgreSQL + DjangoRestFramework`   
 Development REST API.
+
+- Django package for KSU SSO service   
+https://gitlab.com/shoytov/sso_auth   
+**Stack:** `Django`      
+Development the client for SSO KSU service (Django package)    
 
 - The online shop for LTD "Composit"    
 https://composit-tracks.ru/   
