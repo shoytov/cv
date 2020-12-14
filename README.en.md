@@ -63,8 +63,13 @@ Web services software developer
 ___
 
 ## Portfolio*
+- Microservice for Kursk State University. Provide information about faculties, chairs and etc.   
+https://guide.kursksu.ru/         
+**Stack:** `Django + PostgreSQL + DjangoRestFramework`   
+Development REST API.
+
 - The Single Sign On service of Kursk State Universiry based on OAuth 2.0.   
-http://sso.kursksu.ru/         
+https://sso.kursksu.ru/         
 **Stack:** `Django + PostgreSQL + DjangoRestFramework`   
 Development REST API.
 
